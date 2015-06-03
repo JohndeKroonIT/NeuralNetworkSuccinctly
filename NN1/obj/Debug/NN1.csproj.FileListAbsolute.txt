@@ -4,3 +4,9 @@ D:\C#-projects\NeuralNetwork\NN1\NN1\bin\Debug\NN1.pdb
 D:\C#-projects\NeuralNetwork\NN1\NN1\obj\Debug\NN1.csprojResolveAssemblyReference.cache
 D:\C#-projects\NeuralNetwork\NN1\NN1\obj\Debug\NN1.exe
 D:\C#-projects\NeuralNetwork\NN1\NN1\obj\Debug\NN1.pdb
+D:\Csharp projects\NeuralNetwork\NN1\bin\Debug\NN1.exe.config
+D:\Csharp projects\NeuralNetwork\NN1\obj\Debug\NN1.exe
+D:\Csharp projects\NeuralNetwork\NN1\obj\Debug\NN1.pdb
+D:\Csharp projects\NeuralNetwork\NN1\bin\Debug\NN1.exe
+D:\Csharp projects\NeuralNetwork\NN1\bin\Debug\NN1.pdb
+D:\Csharp projects\NeuralNetwork\NN1\obj\Debug\NN1.csprojResolveAssemblyReference.cache
